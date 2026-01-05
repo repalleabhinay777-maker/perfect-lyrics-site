@@ -37,12 +37,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 ## 🔗 Social Media
 
-Follow me for more emotional surprise websites and creative dev content:
-
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+Follow me for more emotional surprise websites and creative dev content.
 
 ---
 
